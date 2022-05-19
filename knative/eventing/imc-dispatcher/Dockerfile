@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_dispatcher:latest
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_dispatcher:v0.22.1
